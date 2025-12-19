@@ -1,8 +1,8 @@
 # POKER CON DADOS 
 TP Integrador POO de la Universidad Nacional de Lujan.
 
--Alumno: Gonzalo Echeverria Crenna
--Legajo: 195155
+-Alumno: Gonzalo Echeverria Crenna<br>
+-Legajo: 195155<br>
 
 # DESCRIPCION
 Repositorio remoto del juego Poker con dados (Generala con apuestas), este juego parte de la premisia del conocido juego generala pero con la particulariedad de agregarle un sistemas de apuestas al estilo del poker texas holdem.
