@@ -5,7 +5,7 @@ TP Integrador POO de la Universidad Nacional de Lujan.
 -Legajo: 195155<br>
 
 # DESCRIPCION
-Repositorio remoto del juego Poker con dados (Generala con apuestas), este juego parte de la premisia del conocido juego generala pero con la particulariedad de agregarle un sistemas de apuestas al estilo del poker texas holdem.
+Repositorio remoto del juego Poker con dados (Generala con apuestas), este juego parte de la premisa del conocido juego generala pero con la particulariedad de agregarle un sistemas de apuestas al estilo del poker texas holdem.
 
 # MODALIDAD DE JUEGO
 
