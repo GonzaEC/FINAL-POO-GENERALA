@@ -26,4 +26,4 @@ El objetivo es armar la mano de dados mas fuerte para ganar el pozo de la partid
 
 # DIAGRAMA UML
 
-![Diagrama del juego](https://github.com/GonzaEC/FINAL-POO-GENERALA/blob/main/UML_GeneralaPOO.png)
+![Diagrama del juego](https://github.com/GonzaEC/FINAL-POO-GENERALA/blob/main/UML_GeneralaPOOV.2.png)
