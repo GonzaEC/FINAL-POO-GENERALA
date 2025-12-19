@@ -12,6 +12,7 @@ Repositorio remoto del juego Poker con dados (Generala con apuestas), este juego
 El juego consiste de dos etapas o fases:
 
   Primera: Lanzamiento de dados, se tiene dos tiradas por jugador para armar la mejor mano posible.<br>
+  
   Segunda: Se realizaran las apuestas de manerta ordenada teniendo la posibilidad de hacer un "Call", "Raise" y "Fold" tambien llamados como Igualar, Subir o Plantarse, la idea de cada opcion es:<br>
 
   -Call: Iguala la apuesta maxima que este en la mesa. <br>
